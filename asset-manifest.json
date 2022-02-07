@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Movie-Recc/static/js/main.cc0c833e.js",
+    "main.css": "/Movie-Recc/static/css/main.f6a8fc2e.css",
+    "main.js": "/Movie-Recc/static/js/main.93bf0dea.js",
     "index.html": "/Movie-Recc/index.html",
-    "main.cc0c833e.js.map": "/Movie-Recc/static/js/main.cc0c833e.js.map"
+    "main.f6a8fc2e.css.map": "/Movie-Recc/static/css/main.f6a8fc2e.css.map",
+    "main.93bf0dea.js.map": "/Movie-Recc/static/js/main.93bf0dea.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc0c833e.js"
+    "static/css/main.f6a8fc2e.css",
+    "static/js/main.93bf0dea.js"
   ]
 }
